@@ -10,6 +10,11 @@ the notes of the version's GitHub Release.
 
 ## [Unreleased]
 
+### Fixed
+
+- The status line says why no stop was found (no house location, location
+  refused) even when the line status is the only device.
+
 ## [0.1.0] - 2026-10-11
 
 ### Added
