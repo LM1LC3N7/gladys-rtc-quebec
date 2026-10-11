@@ -6,8 +6,8 @@
     "en": "Next RTC bus departures and àVélo bike-share stations in Québec City.",
     "fr": "Prochains passages des autobus du RTC et stations àVélo à Québec."
   },
-  "version": "0.1.0",
-  "docker_image": "ghcr.io/lm1lc3n7/gladys-rtc-quebec:0.1.0",
+  "version": "0.1.1",
+  "docker_image": "ghcr.io/lm1lc3n7/gladys-rtc-quebec:0.1.1",
   "gladys_version": ">=5.1.0",
   "cover_image": "https://raw.githubusercontent.com/LM1LC3N7/gladys-rtc-quebec/main/cover.png",
   "categories": ["services"],
