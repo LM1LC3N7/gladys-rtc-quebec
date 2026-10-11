@@ -1,6 +1,6 @@
 {
   "name": "gladys-rtc-quebec",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "Gladys Assistant external integration for the RTC, Québec City: next bus departures and àVélo bike-share stations.",
   "type": "module",
