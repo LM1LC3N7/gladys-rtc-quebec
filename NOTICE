@@ -1,0 +1,27 @@
+Gladys RTC Québec
+Copyright 2026 the gladys-rtc-quebec contributors
+
+This product includes software adapted from:
+
+  - gladys-transport-commun-lyonnais (https://github.com/prohand/gladys-transport-commun-lyonnais),
+    licensed under the Apache License 2.0: src/devices/pollSchedule.js,
+    stateCache.js, readings.js, featureRange.js, publish.js, refreshLoop.js,
+    and the structure of index.js, src/devices/index.js, src/scenes/ and
+    src/widgets/.
+  - integration-template-js (https://github.com/GladysAssistant/integration-template-js),
+    licensed under the Apache License 2.0: the GitHub workflows, the release
+    script, the Dockerfile and the lint configuration.
+  - gladys-stm (https://github.com/LM1LC3N7/gladys-stm), licensed under the
+    Apache License 2.0: the rest of the code.
+
+This product includes data derived from the RTC static GTFS (gtfs/stops.json,
+gtfs/routes.json): "Application, produit ou service, intégrant les
+Informations publiques du Réseau de transport de la Capitale, mises à jour le
+2026-10-11." (https://www.rtcquebec.ca/donnees-ouvertes)
+
+Data sources (not distributed with this software):
+
+  - Transitous (https://transitous.org/sources/), community routing service
+    built on the RTC timetables and OpenStreetMap (© OpenStreetMap
+    contributors, ODbL).
+  - àVélo public GBFS feed.
