@@ -10,6 +10,8 @@ the notes of the version's GitHub Release.
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-10-13
+
 ### Changed
 
 - Shared tooling of the LM1LC3N7 Gladys integrations: CI on Node 22 and 24 with `npm audit`, Release workflow driven by this changelog, GitHub Releases from its sections, grouped Dependabot updates.
@@ -34,6 +36,7 @@ the notes of the version's GitHub Release.
 - Stop search by name or number, in the stop list shipped with the image.
 - Dashboard widgets, scene triggers and scene action (Gladys 5.1.0+).
 
-[Unreleased]: https://github.com/LM1LC3N7/gladys-rtc-quebec/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/LM1LC3N7/gladys-rtc-quebec/compare/v0.1.2...HEAD
+[0.1.2]: https://github.com/LM1LC3N7/gladys-rtc-quebec/compare/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/LM1LC3N7/gladys-rtc-quebec/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/LM1LC3N7/gladys-rtc-quebec/releases/tag/v0.1.0
