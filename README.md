@@ -27,7 +27,7 @@ User documentation: [français](docs/fr.md) · [English](docs/en.md).
 | Scene action          | read the next departures of a stop                              |
 | Configuration buttons | find a stop or an àVélo station by name                         |
 
-Requires Gladys **5.1.0** or later.
+Requires Gladys **5.3.0** or later.
 
 No real time: the RTC keeps it in its Nomade app and publishes only its
 timetable as open data. The shared code reads a GTFS-Realtime feed the day one
